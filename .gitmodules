@@ -1,0 +1,9 @@
+[submodule "ummap-io"]
+	path = ummap-io
+	url = https://github.com/sergiorg-kth/ummap-io
+[submodule "prk"]
+	path = prk
+	url = https://github.com/sergiorg-kth/Kernels
+[submodule "ior"]
+	path = ior
+	url = https://github.com/sergiorg-kth/ior

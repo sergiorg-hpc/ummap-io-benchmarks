@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Temporary files and folder
+build/
+tmp/
+.vscode/
+
